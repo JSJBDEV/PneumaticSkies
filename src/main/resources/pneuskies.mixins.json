@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "ace.actually.pneuskies.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.pneuskies.refmap.json",
+  "mixins": [
+    "EntityPathNavDroneMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
